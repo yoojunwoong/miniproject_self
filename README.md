@@ -7,3 +7,5 @@
 * One the correlation between water ingredient and population,disease,happiness......
 * after analysis i check one thing between rigion and residual chlorine 
 * in spite of clean water, close the beach city analysize higher than others.   
+![re](https://user-images.githubusercontent.com/85270844/125190513-8d545800-e278-11eb-96ff-051d1f41dc9d.png)
+## miniproject_day2
